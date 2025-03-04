@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my profile</h1>
-<h3 align="center">I'm a passionate full-stack developer and a 2nd year student in software engineering</h3>
+<h3 align="center">I'm a passionate full-stack developer and a third year student in software engineering</h3>
 <br/>
 <h2 align="center">Languages and Tools to Code</h2>
 <br/>
