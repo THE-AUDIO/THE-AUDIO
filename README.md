@@ -16,7 +16,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FF4154?style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<br/>
+<br/>cross
 
 <p align="center">
   <a href="https://github.com/THE-AUDIO">
@@ -26,6 +26,6 @@
 
 <p align="center">
   <a href="https://github.com/THE-AUDIO">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THE-AUDIO&theme=radical" alt="Tsizehena's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THE-AUDIO&theme=radical" alt="THE-AUDIO's GitHub Contribution"/>
   </a>
 </p> 
